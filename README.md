@@ -29,7 +29,8 @@ External Steps:
       
     2. MATLAB Support Package for Arduino:
       You need: 
-        (MATLAB Support Package for Arduino (ArduinoIO Package))[http://www.mathworks.com/matlabcentral/fileexchange/32374] 
+        MATLAB Support Package for Arduino (ArduinoIO Package)
+        http://www.mathworks.com/matlabcentral/fileexchange/32374 
 
 Making:
 -------
