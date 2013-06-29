@@ -1,8 +1,8 @@
 3DScanner
 =========
 Description:
-
   Cheap 3D scanner using laser pointers and webcams.
+
 General objectives:
   1. Make the Scanner.
   2. Program the Scanner.
@@ -12,8 +12,10 @@ General objectives:
     1. We have almost all the parts needed and the plans are finished.
     2. We could not control all functional aspects at an early stage.
     3. We are expecting to finish the previous parts.
+
 Particular Objetctives:
   <<>>
+
 External Steps:
     1. Adafruit Motor Shield:
       You need:
@@ -21,6 +23,7 @@ External Steps:
     2. MATLAB Support Package for Arduino:
       You need: 
         [MATLAB Support Package for Arduino (ArduinoIO Package)] (http://www.mathworks.com/matlabcentral/fileexchange/32374).
+
 Making:
   Hardware construction: 
    
