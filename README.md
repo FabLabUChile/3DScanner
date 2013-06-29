@@ -20,7 +20,7 @@ General objectives:
 
 Particular Objetctives:
 -----------------------
-  <<>>
+  
 
 External Steps:
 ---------------
