@@ -25,7 +25,10 @@ Particular Objetctives:
 External Steps:
 ---------------
     1. Adafruit Motor Shield:
-      You need:
+      You need: 
+      *Adafruit Motor Shield
+      Instruction are in http://www.ladyada.net/make/mshield/make.html
+      For install the Arduino Library see http://www.ladyada.net/make/mshield/use.html
       
     2. MATLAB Support Package for Arduino:
       You need: 
