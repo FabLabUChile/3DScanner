@@ -15,7 +15,7 @@ General objectives:
 
   Status:
     1. We have almost all the parts needed and the drafts are finished.
-    2. We could not control all functional aspects at an early stage.
+    2. We could control all functional aspects at an early stage.
     3. We are expecting to finish the previous parts.
 
 Particular Objetctives:
