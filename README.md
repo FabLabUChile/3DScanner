@@ -14,7 +14,7 @@ General objectives:
   3. Scan something.
 
   Status:
-    1. We have almost all the parts needed, the drafts are finished and the making is in a 90%, Now we're making mechanical testing.
+    1. We have almost all the parts needed and the drafts are finished.
     2. We could control all functional aspects at an early stage.
     3. We are expecting to finish the previous parts.
 
