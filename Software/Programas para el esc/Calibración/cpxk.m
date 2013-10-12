@@ -23,6 +23,5 @@ end
 %b=uint8(b);
 %imshow(b)
 promedio =fix((1/cont)*ac);
-%disp(cont);
 w=promedio;
     
