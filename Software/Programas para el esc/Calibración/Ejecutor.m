@@ -1,5 +1,5 @@
-%a = arduino('COM5')
-%a.pinMode(13,'output')
+a = arduino('COM5')
+a.pinMode(13,'output')
 control = input('(1) Calibrar, (2) Escanear');
 if control == 1
     [fi,texto]=fopen('cab.txt','w');
